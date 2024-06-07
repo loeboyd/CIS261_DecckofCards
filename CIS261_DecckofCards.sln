@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CIS261_DecckofCards", "CIS261_DecckofCards.pyproj", "{B1331E91-BFB1-4823-9C9D-9B77789BD1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1331E91-BFB1-4823-9C9D-9B77789BD1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1331E91-BFB1-4823-9C9D-9B77789BD1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC57DB87-24C9-4485-903D-5F44DC95A0F9}
+	EndGlobalSection
+EndGlobal
